@@ -1,4 +1,4 @@
-[![My Site!](https://sol3.me/images/socialsTag.png)](https://sol3.me/)
+[![My Site!](/socialsTag.jpg)](https://sol3.me/)
 <p align="center">
   <img src="https://www.codewars.com/users/sol3uk/badges/large">
 </p>
