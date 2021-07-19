@@ -1,4 +1,3 @@
-[![My Site!](/socialsTag.jpg)](https://sol3.me/)
 ### Hi ... I'm Ben! 👋 
 
 - 🔭 I’m currently working on C# ASP.NET Core Web Applications
