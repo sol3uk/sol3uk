@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on C# .NET Core Web Applications using strict TDD
 - 🌱 I’m currently learning/practising Vue, Event sourcing, React Query
 - 💬 Ask me about anything!
-- 📫 How to reach me: Visit [My Site!](https://sol3.me/)
+- 📫 How to reach me: Visit my [site](https://sol3.me/) and pop me an email 🙂
 
 ###### Add me on Codewars!
 
