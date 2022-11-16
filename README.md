@@ -1,4 +1,4 @@
-### Hi ... I'm Ben! 👋 [☀️3.ws](http://☀️3.ws)
+### Hi ... I'm Ben! 👋
 
 - 🔭 I’m currently working on C# .NET Core Web Applications
 - 🌱 I’m currently learning TDD, Event sourcing, React Query
