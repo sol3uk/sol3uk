@@ -8,5 +8,3 @@
 ###### Add me on Codewars!
 
 [![Codewars](https://www.codewars.com/users/sol3uk/badges/small)](https://www.codewars.com/users/sol3uk)
-
-![Profile views](https://gpvc.arturio.dev/sol3uk)
